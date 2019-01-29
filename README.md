@@ -1,4 +1,4 @@
-# Express-graphql boiler
+# Apollo-graphql boiler
 
 ### http://localhost:3000/graphql
 
